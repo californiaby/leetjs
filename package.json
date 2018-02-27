@@ -1,0 +1,30 @@
+{
+  "name": "leetcode",
+  "version": "0.0.1",
+  "description": "Leetcode solutions (JavaScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/*/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/californiaby/leetcode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "solutions",
+    "javascript",
+    "js"
+  ],
+  "author": "californiaby@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/californiaby/leetcode/issues"
+  },
+  "homepage": "https://github.com/californiaby/leetcode#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.18.1",
+    "mocha": "^5.0.1"
+  }
+}
