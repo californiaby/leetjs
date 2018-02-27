@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# VS folder
+.vscode
+
+# Package lock
+package-lock.json
